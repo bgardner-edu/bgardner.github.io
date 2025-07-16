@@ -1,1 +1,1 @@
-Sitemap: https://byuidatascience.github.io/datascience_portfolio/sitemap.xml
+Sitemap: https://bgardner-edu.github.io/bgardner.github.io/sitemap.xml
