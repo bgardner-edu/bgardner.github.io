@@ -1,89 +1,68 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bradley Gardner's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Bradley Gardner
+Software Engineer / Test Lead
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:bradleydrumgardner@gmail.com">bradleydrumgardner@gmail.com</a>
+| <a href="https://www.linkedin.com/in/bradley-gardner-48b25940/">LinkedIn Profile</a>
+| +1 (801) 381-0437
 </div>
 
+## Summary
 
-## Currently
-
-Standing on the shoulders of giants
+Software Engineer with extensive experience in web development, software testing, automation, and team leadership.  
+Adept at designing and executing test plans, restructuring defect tracking, and enhancing release processes.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Test automation, quality assurance leadership, API/UI testing, agile methodologies
 
+### Skills
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- Test Planning & Execution (Manual & Automated)  
+- API, UI, and Unit Test Automation  
+- Agile Development & Scrum Methodologies  
+- Defect Tracking & Reporting (Azure DevOps, TestRail)  
+- Release Management & Process Improvement  
+- Coaching & Mentoring QA Teams
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep 2019 – Dec 2025`  
+__Brigham Young University – Idaho__  
+- Bachelor's Degree (in progress)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Sep 2019 – May 2022`  
+__Brigham Young University – Idaho__  
+- Associates in Applied Technology
 
-- Sizar
+`Sep 2019 – May 2021`  
+__Brigham Young University – Idaho__  
+- Web Development Certificate
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Nov 2015`  
+__International Software Testing Qualifications Board (ISTQB)__  
+- Certified Tester – Foundation Level Certificate
 
-- Fellow
+## Experience
 
+`Apr 2022 – Present`  
+__Software Engineer, ThetaCore__, Lehi, Utah  
+- Developed and maintained features across 2 web and 1 mobile projects  
+- Created and executed both manual and automated test scenarios  
+- Managed application release cycles, reducing release time from monthly to bi-weekly  
+- Optimized defect tracking process in Azure DevOps, reducing unresolved bugs from 150 to 15
 
+`Sep 2021 – Apr 2022`  
+__QA Manager, Vasion__, St. George, Utah  
+- Led a team of QA professionals, providing guidance and mentorship  
+- Enhanced efficiency and quality standards, leading to faster release cycles  
+- Improved technical documentation clarity and completeness  
+- Established QA methodologies and contributed to design reviews
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+`Sep 2018 – Sep 2021`  
+__Software
